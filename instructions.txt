@@ -3,6 +3,8 @@ Insert Instructions here
 
 plug the power cord in the adapter
 plug network cable into raspberry pi
+plug the keyboard into the raspberry pi
+
 
 
 plug the plug into the wall
