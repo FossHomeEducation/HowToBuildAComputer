@@ -1,10 +1,15 @@
 Insert Instructions here
 
+open the bag
 
-plug the power cord in the adapter
+question around sd card
+power port was hard to find
+
+plug electrical plug into outlet
+plugin small side of power cord into raspberrry pi case into port next to the sd slot
+plug large end of power cord into the power adapter
+
 plug network cable into raspberry pi
-plug the keyboard into the raspberry pi
 
-
-
-plug the plug into the wall
+plug in the sd card next to the power cord 
+(with gold side up) 
